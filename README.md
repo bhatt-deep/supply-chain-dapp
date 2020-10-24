@@ -228,7 +228,7 @@ This command should download a repository and install all dependencies in the cu
 
 Now you’ll add the contracts created in previous steps and remove `SimpleStorage.sol`.
 
-![remove-simple-storage](./assets/images/remove-simple-storage.png =100x250)
+<img src="./assets/images/remove-simple-storage.png" width=200 />
 
 And add the files created previously:
 
